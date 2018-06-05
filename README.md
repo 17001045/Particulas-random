@@ -25,7 +25,7 @@ El código css de las particulas se ponen a gusto, ejemplo:
   width: var(--size); 
   height: var(--size); 
   background:rgba(255, 255, 255, 1); 
-}
+} 
 
 
 
