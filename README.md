@@ -1,7 +1,7 @@
 # Particulas-random
 Simple código en js vanilla que crea y mueve elementos de forma aleatoria. Usando js orientado a objetos, perfecto para fondos.
 
-# Ejemplo:
+### Ejemplo:
 
 - var parti = new Parti( 
   - idElement, 
@@ -18,15 +18,15 @@ Simple código en js vanilla que crea y mueve elementos de forma aleatoria. Usan
 - parti.startParti()
 
 
-# El código css de las particulas se ponen a gusto, ejemplo:
+### El código css de las particulas se ponen a gusto, ejemplo:
 
 - .partiCss{ 
--  --size:10px; 
+ - --size:10px; 
  - width: var(--size); 
- -  height: var(--size); 
+ - height: var(--size); 
  - background:rgba(255, 255, 255, 1); 
 - } 
 
 
-# https://17001045.github.io/Particulas-random/index.html
+# [Demo](https://17001045.github.io/Particulas-random/index.html)
 
