@@ -1,5 +1,5 @@
 # Particulas-random
-Simple código en js vanilla que crea y mueve elementos de forma aleatoria. Usando js orientado a objetos, perfecto para fondos.
+ Código en js vanilla que crea y mueve elementos de forma aleatoria. Usando js orientado a objetos, perfecto para fondos.
 
 ## [Demo](https://17001045.github.io/Particulas-random/index.html)
 
